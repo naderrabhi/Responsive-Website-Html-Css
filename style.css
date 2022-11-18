@@ -13,7 +13,7 @@
 .main-banner {
     padding-top: 150px;
     padding-bottom: 100px;
-    background-image: url(../project2/image/banner1.png);
+    background-image: url(./image/banner1.png);
     background-size: cover;
     color: white;
 }
